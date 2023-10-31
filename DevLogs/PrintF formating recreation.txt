@@ -1,0 +1,6 @@
+10/10/2023:
+Today is October 10th, I started the chalange today. I decided to start of a little ambitious and atempt to recreate the printf formating function.
+Im not sure how to make classes or modules or anything like that so the idea was to just take an input from the user and effect the imputed string
+but that seemed to be harder said than done. I worked on the project for arround 30 miniutes today. Im getting stuck on figguring out how long the
+formating section is. I found the % but Im having truble testing weather the next varuable is a width or a different part of the formating section
+I tried using parseInt from the Intiger class but im getting an error. Might come back to this later tonight but if not see yall tomorrow for day 2.
