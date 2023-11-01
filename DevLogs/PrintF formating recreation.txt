@@ -1,6 +1,15 @@
-10/10/2023:
-Today is October 10th, I started the chalange today. I decided to start of a little ambitious and atempt to recreate the printf formating function.
+10/30/2023:
+Today is October 30th, I started the chalange today. I decided to start of a little ambitious and atempt to recreate the printf formating function.
 Im not sure how to make classes or modules or anything like that so the idea was to just take an input from the user and effect the imputed string
 but that seemed to be harder said than done. I worked on the project for arround 30 miniutes today. Im getting stuck on figguring out how long the
 formating section is. I found the % but Im having truble testing weather the next varuable is a width or a different part of the formating section
 I tried using parseInt from the Intiger class but im getting an error. Might come back to this later tonight but if not see yall tomorrow for day 2.
+
+10/31/2023
+YOOO! Today is holoween but thats no reason to stop the grind. Today I implemented a for loop to get the width. Ive decided for the time being at
+least until I can get it working I will require flag in the formating section. I learned how to use the charAt() function and it has greatly improved
+my loops because I dont have to use a long substring statement anymore. I spent 42 minuites today on the project. I spent 20 minuites with really
+dumb issues because I decided I wanted to try and get the input working. I still have an issue with the width, if there is no next index it throws an
+error when I try to use charAt because it doesnt exist but I dont know how to check it without throwing an error. I know in Python there are try
+exept statements so tomorrow Ill do some reserch into implementing one of those in some way. Maybe by using a simple if loop at the end of the while
+loop, we shall see. HAPPY HOLOWEEN! See yall tomorrow for day 3!
