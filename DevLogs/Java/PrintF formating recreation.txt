@@ -13,3 +13,10 @@ dumb issues because I decided I wanted to try and get the input working. I still
 error when I try to use charAt because it doesnt exist but I dont know how to check it without throwing an error. I know in Python there are try
 exept statements so tomorrow Ill do some reserch into implementing one of those in some way. Maybe by using a simple if loop at the end of the while
 loop, we shall see. HAPPY HOLOWEEN! See yall tomorrow for day 3!
+
+11/2/2023
+I spent arround 20 minuites looking for a bug today. Basicly two days ago I put an input in my loops so I could run through the width one character
+at a time but I forgot about that and I tried testing the new precision checker I added and it kept asking for more input so I thought it was an issue
+with my code. After I figgured that out I implemented precision check sucessfuly so I now have every aspect of the printf, tomorrow I will implement
+the format features so it begins to format the input, I might have to force the input to be in parentheses so I can get the condition being formated
+but I will make that decision tommorow. I might actualy come back later tonight depending how long my homework goes so eather see you later or tomorrow!
