@@ -1,0 +1,7 @@
+11/1/2023
+Hello, today instead of working on my Jave project "PrintFRecreation" I decided to catch up on HTML syntax. Most of what I did I worked on in school today in CodePen.io.
+I went threw the w3 page on HTML and I finished most of the stuff that I thought warented notes. I will upadate more in the future as I work on HTML more and need more
+functunalitys. I was having quite a few issues with linking the HTML file and the CSS file so ill have to work on that tomorow, the CSS file seems to have no effect
+but in codepen.io it does. Also today I started learning how to use Visual Studio Code because I dont wanna mess with a bunch of diferent IDEs. Thats what was causing
+me the most issues, I still dont have everything figgured out but when I come back tomorrow to work some more in VS Ill probly figgure it out. See yall tommorow for
+day 3! Thanks!
